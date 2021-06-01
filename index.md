@@ -137,7 +137,3 @@ Borghi, J.A. & Van Gulick, A.E. (Sept, 2017). Surveying discipline-specific data
 Van Gulick, A.E. & Borghi, J.A. (Feb, 2017). Methods and metrics for the assessment of research data management maturity, adoption of software tools, and data sharing outcomes in neuroimaging. Poster at the International Digital Curation Conference (IDCC). Edinburgh, Scotland.
 
 Borghi, J. A., Kujawa, A. J., Klein, D. N., & Leung, H. C. (Oct, 2012). MDD is related to disrupted patterns of neural activity during selective processing of faces and scenes. Poster at Society for Neuroscience (SfN), New Orleans, LA.
-
-
-
-![image](https://user-images.githubusercontent.com/14856256/120389787-bd0b5a00-c2e1-11eb-9dc9-a341193409a8.png)
